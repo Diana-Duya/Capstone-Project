@@ -6,7 +6,7 @@ Original design idea by Cindy Shin in Behance, in association with the Creative 
 ## Microverse HTML CSS Javascript-Capstone
 This Capstone Project marks the first milestone in HTML CSS and Javascript.
 
-Set up a repository and prepare it for development using correct git workflow. Build the three sections of the mobile version and use media queries to create the desktop vrsion.
+Set up a repository and prepare it for development using correct git workflow. Build the three sections of the mobile version and use media queries to create the desktop version.
 
 ## Screenshot
 ![Screenshot (3)](https://user-images.githubusercontent.com/106156077/192014541-4d08a5a4-9785-44c7-ba23-fac0289ffef6.png)
