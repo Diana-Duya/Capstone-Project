@@ -18,11 +18,6 @@ Set up a repository and prepare it for development using correct git workflow. B
 - HTML CSS & JAVASCRIPT
 - Git and Github
 
-## Live Demo (if available)
-
-[Live Demo Link](https://diana-duya.github.io/Capstone-Project/)
-
-
 ## Getting Started
 
 
