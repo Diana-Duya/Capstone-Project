@@ -61,7 +61,7 @@ jobs:
       - name: ESLint Report
         run: npx eslint .
   nodechecker:
-    name: node_modules checker
+    name: node_modules checker 
     runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v2

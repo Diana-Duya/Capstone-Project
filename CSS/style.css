@@ -456,6 +456,10 @@ html {
     padding-left: 122px;
   }
 
+  .main-menu a {
+    border-bottom: none;
+  }
+
   .page {
     width: 100%;
     gap: 40px;
