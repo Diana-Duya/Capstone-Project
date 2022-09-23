@@ -1,62 +1,57 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+Original design idea by Cindy Shin in Behance, in association with the Creative Commons [licence](https://creativecommons.org/licenses/by-nc/4.0/) of the design.
 
-> Description the project.
+
+## Microverse HTML CSS Javascript-Capstone
+This Capstone Project marks the first milestone in HTML CSS and Javascript.
+
+Set up a repository and prepare it for development using correct git workflow. Buid the three sections of the mobile version and use media queries to create the desktop vrsion.
+
+## Screenshot
+Screenshot (3).png
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML CSS & JAVASCRIPT
+- Git and Github
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://diana-duya.github.io/Capstone-Project/)
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+- Copy link to this repository.
 
-### Setup
+- Clone the ripository into local computer in git bash.
 
-### Install
+- Go to the repository folder using command prompt cd  capstone-project.
 
-### Usage
-
-### Run tests
-
-### Deployment
-
+- Install the developer dependencies for linters run npm install.
 
 
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+  Diana Duya
 
-👤 **Author2**
+- GitHub: [@Diana-Duya](https://github.com/Diana-Duya)
+- Twitter: [@Dianaduya2](https://twitter.com/Dianaduya2)
+- LinkedIn: [Diana Duya](https://www.linkedin.com/in/diana-duya-3088681a5)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Diana-Duya/Capstone-Project/issues).
 
 ## Show your support
 
@@ -64,9 +59,6 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
