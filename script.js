@@ -48,44 +48,44 @@ const speakerdata = [
     title: 'CIO, nvidia',
     desc: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Architecto pariatur officiis quaerat culpa quasi, repellat possimus tempore esse porro suscipit eaque, iste, soluta ad tempora! Reiciendis neque totam cum eius?',
   },
-]
+];
 
-const speakers = document.querySelector('.people')
+const speakers = document.querySelector('.people');
 
-const speakerList = document.createElement('ul')
-speakerList.className = 'speakerlist'
-speakers.appendChild(speakerList)
+const speakerList = document.createElement('ul');
+speakerList.className = 'speakerlist';
+speakers.appendChild(speakerList);
 
 speakerdata.forEach((speaker) => {
   // cards
-  const cardWork = document.createElement('li')
-  cardWork.className = 'listItem'
+  const cardWork = document.createElement('li');
+  cardWork.className = 'listItem';
 
-  const speakerImg = document.createElement('div')
-  const picha = document.createElement('img')
-  picha.src = speaker.image
-  speakerImg.className = 'picture'
-  speakerImg.appendChild(picha)
-  cardWork.appendChild(speakerImg)
-  
+  const speakerImg = document.createElement('div');
+  const picha = document.createElement('img');
+  picha.src = speaker.image;
+  speakerImg.className = 'picture';
+  speakerImg.appendChild(picha);
+  cardWork.appendChild(speakerImg);
+
   const speakerContainer = document.createElement('div');
   speakerContainer.className = 'speaker-container';
-  const speakerName = document.createElement('h3')
-  speakerName.className = 'name'
+  const speakerName = document.createElement('h3');
+  speakerName.className = 'name';
   speakerName.innerHTML = speaker.name;
   speakerContainer.appendChild(speakerName);
 
-  const speakerTitle = document.createElement('p')
-  speakerTitle.className = 'title'
+  const speakerTitle = document.createElement('p');
+  speakerTitle.className = 'title';
   speakerTitle.innerHTML = speaker.title;
   speakerContainer.appendChild(speakerTitle);
 
-  const speakerDescr = document.createElement('p')
-  speakerDescr.className = 'description'
+  const speakerDescr = document.createElement('p');
+  speakerDescr.className = 'description';
   speakerDescr.innerHTML = speaker.desc;
   speakerContainer.appendChild(speakerDescr);
 
   // speakerContainer.appendChild(cardWork);
   cardWork.appendChild(speakerContainer);
-   speakerList.appendChild(cardWork);
+  speakerList.appendChild(cardWork);
 });
