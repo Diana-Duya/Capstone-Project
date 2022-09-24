@@ -107,7 +107,10 @@ img {
 
 .page {
   width: 100%;
-  background-image: url(./img/download-\(2\).jfif);
+  background: linear-gradient(rgba(235, 242, 224, 0.8882352941), rgba(254, 255, 255, 0.9)), url(./img/istockphoto-1301636933-612x612.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
   display: flex;
   flex-direction: column;
   justify-content: center;
