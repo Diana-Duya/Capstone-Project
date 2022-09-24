@@ -1,5 +1,4 @@
 .body {
-  background-image: url(img/background.jpg);
   font-family: 'lato', sans-serif;
   width: 100%;
 }
@@ -97,9 +96,6 @@ img {
 .nav-items {
   margin-left: 30px;
   border: 2px solid red;
-}
-
-.about-page {
 }
 
 .Home {
@@ -430,7 +426,7 @@ img {
 
   .details1 {
     display: flex;
-    align-items: center;
+    
     width: 55%;
     font-family: 'lato', sans-serif;
     font-style: normal;
