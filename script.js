@@ -32,7 +32,7 @@ const speakerdata = [
   },
   {
     name: 'Marco Lambertini',
-    image: './img/Marco_Lambertini.jpg',
+    image: './img/csm_Karl_Lauterbach_a5d4cea0e8.jpg',
     title: 'VP, Transformation Tech',
     desc: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Architecto pariatur officiis quaerat culpa quasi, repellat possimus tempore esse porro suscipit eaque, iste, soluta ad tempora! Reiciendis neque totam cum eius?',
   },
