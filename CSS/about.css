@@ -419,14 +419,6 @@ img {
     display: none;
   }
 
-  .desk {
-    display: block;
-    width: 50px;
-    height: 50px;
-    margin-top: 0;
-    margin-bottom: 0;
-  }
-
   .greeting {
     top: 0;
   }
@@ -451,16 +443,24 @@ img {
     color: #272a31;
   }
 
+  .desk {
+    margin-left: 150px;
+    position: absolute;
+    display: flex;
+    width: 100px;
+    height: 40px;
+  }
+
   .main-menu {
     position: relative;
-    width: 100%;
+    width: 50%;
     height: 50px;
     display: flex;
     flex-direction: row !important;
     justify-content: center;
     align-items: center;
-    gap: 60px;
-    padding-left: 150px;
+    gap: 10px;
+    margin-left: 600px;
     padding-top: 10px;
     background-color: white;
     visibility: visible;
@@ -699,9 +699,10 @@ img {
   }
 
   .footer {
-    width: 50%;
+    width: 100%;
     display: flex;
-    justify-content: flex-start;
+    flex-direction: row;
+    justify-content: center;
     align-items: center;
     font-family: 'lato', sans-serif;
     font-style: normal;
@@ -710,6 +711,12 @@ img {
     line-height: 40px;
     color: antiquewhite;
     background-color: rgb(65, 64, 64);
+  }
+
+  .footer-logo {
+    height: 100px;
+    width: 100px;
+    margin: 5px;
   }
 
   .end {

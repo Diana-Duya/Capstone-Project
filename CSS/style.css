@@ -435,9 +435,12 @@ html {
   }
 
   .desk {
+    margin-left: 150px;
+    position: absolute;
     display: flex;
-    width: 50px;
-    height: 60px;
+    width: 100px;
+    height: 40px;
+    background: transparent;
   }
 
   .greeting {
@@ -450,11 +453,10 @@ html {
 
   .main-menu {
     position: relative;
-    width: 100%;
+    width: 50%;
     height: 50px;
     display: flex !important;
     flex-direction: row !important;
-    justify-content: center;
     align-items: center;
     background-color: white;
     visibility: visible;
@@ -463,8 +465,8 @@ html {
     font-weight: 300;
     font-size: 16px;
     line-height: 16px;
-    gap: 100px;
-    padding-left: 122px;
+    gap: 1px;
+    margin-left: 700px;
   }
 
   .main-menu a {
@@ -552,7 +554,12 @@ html {
   }
 
   .footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
     align-items: center;
+    gap: 9px;
+    background-color: rgb(227, 227, 225);
   }
 
   .end {
