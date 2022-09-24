@@ -1,7 +1,5 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-Original design idea by Cindy Shin in Behance, in association with the Creative Commons [licence](https://creativecommons.org/licenses/by-nc/4.0/) of the design.
-
 
 ## Microverse HTML CSS Javascript-Capstone
 This Capstone Project marks the first milestone in HTML CSS and Javascript.
@@ -54,6 +52,8 @@ Feel free to check the [issues page](https://github.com/Diana-Duya/Capstone-Proj
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
+
+Original design idea by Cindy Shin in Behance, in association with the Creative Commons [licence](https://creativecommons.org/licenses/by-nc/4.0/) of the design.
 
 
 ## 📝 License
