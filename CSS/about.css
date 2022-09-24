@@ -107,7 +107,7 @@ img {
 
 .page {
   width: 100%;
-  background-image: url(/img/about_bg_01.png);
+  background-image: url(./img/about_bg_01.png);
   display: flex;
   flex-direction: column;
   justify-content: center;

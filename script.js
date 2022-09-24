@@ -14,37 +14,37 @@ document.querySelectorAll('.nav-item').forEach((n) => n.addEventListener('click'
 const speakerdata = [
   {
     name: 'Steffi Lemke',
-    image: 'img/csm_Steffi_Lemke_2022__806ab0193b.jpg',
+    image: './img/csm_Steffi_Lemke_2022__806ab0193b.jpg',
     title: 'Founder + CEO, Siemens AG',
     desc: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Architecto pariatur officiis quaerat culpa quasi, repellat possimus tempore esse porro suscipit eaque, iste, soluta ad tempora! Reiciendis neque totam cum eius?',
   },
   {
     name: 'Chikwe Ihekweazu',
-    image: 'img/csm_Chikwe_Ihekweazu_de034abe95.jpg',
+    image: './img/csm_Chikwe_Ihekweazu_de034abe95.jpg',
     title: 'VP, Lowe Innovation',
     desc: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Architecto pariatur officiis quaerat culpa quasi, repellat possimus tempore esse porro suscipit eaque, iste, soluta ad tempora! Reiciendis neque totam cum eius?',
   },
   {
     name: 'Inger Ashing',
-    image: 'img/csm_Inger_Ashing_2016_1cd80f299b.jpg',
+    image: './img/csm_Inger_Ashing_2016_1cd80f299b.jpg',
     title: 'VP, Johnson $ Johnson',
     desc: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Architecto pariatur officiis quaerat culpa quasi, repellat possimus tempore esse porro suscipit eaque, iste, soluta ad tempora! Reiciendis neque totam cum eius?',
   },
   {
     name: 'Marco Lambertini',
-    image: 'img/csm_Marco_Lambertini_6fcef027b6.PNG',
+    image: './img/csm_Marco_Lambertini_6fcef027b6.PNG',
     title: 'VP, Transformation Tech',
     desc: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Architecto pariatur officiis quaerat culpa quasi, repellat possimus tempore esse porro suscipit eaque, iste, soluta ad tempora! Reiciendis neque totam cum eius?',
   },
   {
     name: 'Nanjira Sambul',
-    image: 'img/csm_Nanjira_Sambuli_9b2ce390a2.jpg',
+    image: './img/csm_Nanjira_Sambuli_9b2ce390a2.jpg',
     title: 'Head of AI, Microverse',
     desc: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Architecto pariatur officiis quaerat culpa quasi, repellat possimus tempore esse porro suscipit eaque, iste, soluta ad tempora! Reiciendis neque totam cum eius?',
   },
   {
     name: 'Christos Christou',
-    image: 'img/csm_Christos_Christou_ff5a205480.jpg',
+    image: './img/csm_Christos_Christou_ff5a205480.jpg',
     title: 'CIO, nvidia',
     desc: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Architecto pariatur officiis quaerat culpa quasi, repellat possimus tempore esse porro suscipit eaque, iste, soluta ad tempora! Reiciendis neque totam cum eius?',
   },

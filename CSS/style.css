@@ -107,7 +107,7 @@ html {
 .Home {
   width: 100%;
   display: flex;
-  background-image: url(/img/main_big.png);
+  background-image: url(./img/main_big.png);
   padding: 3rem 0;
 }
 
