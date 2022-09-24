@@ -359,7 +359,7 @@ html {
   color: antiquewhite;
   text-align: center;
   margin-top: 70px;
-  
+
 }
 
 .list li {
@@ -401,7 +401,7 @@ html {
 
   .Home {
     /* background: rgb(112, 100, 100); */
-    background-image: url(./img/short.png);
+    background-image: url(/img/short.png);
     background-position: center;
     background-repeat: no-repeat;
   }
