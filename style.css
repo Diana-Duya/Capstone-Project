@@ -400,8 +400,8 @@ html {
   }
 
   .Home {
-    /* background: rgb(112, 100, 100); */
-    background-image: url(/img/short.png);
+    background: rgb(112, 100, 100);
+    /* background-image: url(/img/short.png); */
     background-position: center;
     background-repeat: no-repeat;
   }
