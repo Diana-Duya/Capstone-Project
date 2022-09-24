@@ -196,6 +196,7 @@ img {
   text-align: center;
   color: #3c3a39;
   margin-bottom: 0;
+
   /* margin-top: 70px; */
 }
 
@@ -426,7 +427,6 @@ img {
 
   .details1 {
     display: flex;
-    
     width: 55%;
     font-family: 'lato', sans-serif;
     font-style: normal;
@@ -503,7 +503,9 @@ img {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+
     /* gap: 40px; */
+
     /* padding-bottom: 50px; */
   }
 
@@ -576,10 +578,10 @@ img {
 
   .seepast-hr {
     height: 1px;
-  width: 45px;
-  background-color: #ec5242;
-  margin: 8px auto 50px auto;
-  border: none;
+    width: 45px;
+    background-color: #ec5242;
+    margin: 8px auto 50px auto;
+    border: none;
     margin-bottom: 40px;
   }
 
