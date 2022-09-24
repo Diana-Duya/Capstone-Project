@@ -107,7 +107,7 @@ img {
 
 .page {
   width: 100%;
-  background: linear-gradient(rgba(235, 242, 224, 0.8882352941), rgba(254, 255, 255, 0.9)), url(./img/istockphoto-1301636933-612x612.jpg);
+  background: linear-gradient(rgba(235, 242, 224, 0.2), rgba(254, 255, 255, 0.2)), url(./img/istockphoto-1301636933-612x612.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -117,6 +117,7 @@ img {
   align-items: center;
   gap: 20px;
   top: auto;
+  padding: 4rem 0;
 }
 
 .align {
@@ -168,6 +169,7 @@ img {
   color: #091e42;
   width: 100%;
   text-align: center;
+  background-color: rgb(227, 227, 225);
 }
 
 .time {
@@ -370,6 +372,7 @@ img {
 }
 
 .footer {
+  width: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
