@@ -107,7 +107,7 @@ img {
 
 .page {
   width: 100%;
-  background-image: linear-gradient(rgba(235, 242, 224, 0.2), rgba(254, 255, 255, 0.2)), url(./img/istockphoto-1301636933-612x612.jpg);
+  background-image: linear-gradient(rgba(235, 242, 224, 0.2), rgba(254, 255, 255, 0.2)), url("./img/short.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
